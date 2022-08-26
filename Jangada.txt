@@ -1,0 +1,23 @@
+1 Passo - O homem coloca a cabra na jangada junto com ele
+2 Passo - Atravessa o Rio com a cabra na jangada
+3 Passo - Desce a cabra da jangada
+4 Passo - Deixa a cabra
+5 Passo - Sobe na jangada
+6 Passo - Atravessa o rio
+7 Passo - Desce da jangada
+8 Passo - Coloca o capim na jangada
+9 Passo - Sobe na jangada
+10 Passo - Atravessa o rio
+11 Passo - Desce o capim da jangada
+12 Passo - Coloca a cabra na jangada
+13 Passo - Sobe na jangada
+14 Passo - Atravessa o rio
+15 Passo - Desca da jangada o homem e a cabra
+16 Passo - Coloca o leão na jangada junto com o homem
+17 Passo - Atravessa o rio
+18 Passo - Desce o leão da jangada
+19 Passo - 
+20 Passo -
+21 Passo -
+22 Passo - 
+23 Passo -
